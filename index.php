@@ -6,4 +6,3 @@ $pass   = "";
 $db     = "controle_financeiro";
 
 $con = new mysqli("{$server}", "{$user}","{$pass}","{$db}");
-
